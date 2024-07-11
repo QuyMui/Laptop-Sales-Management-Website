@@ -1,0 +1,110 @@
+﻿@using QuanLyLaptop.Models
+@model List<QuanLyLaptop.Models.CartItemModelcs>
+@{
+    ViewBag.Title = "ListCarts";
+    Layout = "~/Views/Shared/_LayoutGioHang.cshtml";
+}
+
+<h2></h2>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="shoping__cart__table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="shoping__product">Products</th>
+                            <th></th>
+
+                            <th>Price</th>
+                            <th>Quantity</th>
+                            <th>Total</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                       
+                        @foreach (var item in Model)
+                               {
+                                <tr>
+                                    <td>
+                                        <img class="thumbnail" src="../Template/ProductImg/@item.AnhSP" alt="" />
+                                    </td>
+                                    <td class="shoping__cart__item">
+                                        <h5>@item.TenSP</h5>
+                                    </td>
+                                    <td class="shoping__cart__price">
+                                        @item.Gia
+                                    </td>
+                                    @*<td class="shoping__cart__quantity">
+            <div class="quantity">
+                <div class="pro-qty">
+                    <span class="dec qtybtn"></span>
+                    <input type="text" value="@item.SoLuong" class="item-quantity">
+                    <span class="inc qtybtn"></span>
+                </div>
+            </div>
+        </td>*@
+                                    <td class="shoping__cart__quantity">
+                                        <form action="@Url.Action("SuaSoLuong", "Cart")" method="post">
+                                            <input type="hidden" name="id" value="@item.MaSP" />
+                                            <input type="number" min="1" step="1" name="soluongmoi" value="@item.SoLuong" />
+                                            <button type="submit" class="btn btn-primary btn-sm">Cập nhật</button>
+                                        </form>
+                                    </td>
+
+                                    @*<div class="quantity">*@
+                                    @*<div class="pro-qty">
+                    <span class="dec qtybtn"></span>
+                    <input type="text" value="@item.SoLuong" class="item-quantity" name="soluongmoi">
+                    <span class="inc qtybtn"></span>
+                </div>
+            </div>
+            <button type="submit">Update</button>
+        </form>*@
+                                    @*</td>*@
+                                    @*<td> @item.Total.ToString("#,##0").Replace(',', '.') VNĐ </td>*@
+                                    <td class="shoping__cart__total"> @item.Total.ToString("#,##0").Replace(',', '.') VNĐ </td>
+                                    @*<td class="shoping__cart__total">
+            @item.Total
+        </td>*@
+                                    <td class="shoping__cart__item__close">
+                                        <a href="@Url.Action("XoaGioHang", "Cart", new { @id = item.MaSP })">
+                                            <span class="icon_close"></span>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        
+                        <!--else
+                        {
+                            <tr>
+                                <td colspan="5"><h4>Your Cart is Empty</h4></td>
+                            </tr>-->
+                        @*}*@
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+
+        </div>
+        <div class="col-lg-6">
+
+        </div>
+        <div class="col-lg-6">
+            <div class="shoping__checkout">
+                <h5>Cart Total</h5>
+                <ul>
+                    <li>Subtotal <span id="total-quantity">@Model.Sum(m => m.SoLuong)</span></li>
+                    @*<td> @Model.Sum(m => m.SoLuong) </td>*@
+                    <li>Total <span id="total-price">@Model.Sum(m => m.Total).ToString("#,##0").Replace(',', '.') VNĐ </span></li>
+                    @*<td>@Model.Sum(m => m.Total).ToString("#,##0").Replace(',', '.') VNĐ </td>*@
+                </ul>
+                    <a href="@Url.Action("DatHang", "Cart")" method="post" class="primary-btn">Đặt hàng</a>
+            </div>
+        </div>
+    </div>
+</div>

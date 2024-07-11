@@ -1,0 +1,15 @@
+﻿@model List<QuanLyLaptop.Models.SanPham>
+
+@{
+    ViewBag.Title = "SPTheoHang";
+    Layout = "~/Views/Shared/_LayoutTemplate.cshtml";
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        @Html.Partial("PartialSanPham", item)
+    }
+</div>
+
+    

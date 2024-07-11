@@ -1,0 +1,114 @@
+﻿
+@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Shared/_LayoutDatHang.cshtml";
+}
+
+
+﻿@using QuanLyLaptop.Models
+@model List<CartItemModelcs>
+@{
+    UsSer kh = Session["User"] as UsSer;
+}
+
+
+<div class="checkout__form">
+    <h4>Đơn Hàng</h4>
+    <form action="/Cart/DatHang" method="post">
+        <div class="row">
+            <div class="col-lg-8 col-md-6">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="checkout__input">
+                            <p>Họ Tên: @kh.username</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+
+                    </div>
+                </div>
+                <div class="checkout__input">
+
+                </div>
+                <div class="checkout__input">
+                    <p>Address: @kh.DiaChi</p>
+
+                </div>
+                <div class="checkout__input">
+                    <p>Ngày đặt: @DateTime.Now.ToShortDateString()</p>
+                </div>
+
+                <div class="checkout__input">
+
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="checkout__input">
+                            <p>Phone: @kh.Sdt</p>
+
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="checkout__input">
+                            <p>Email: @kh.email</p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="checkout__input__checkbox">
+                    <label for="acc">
+
+                    </label>
+                </div>
+                <p>
+
+                </p>
+                <div class="checkout__input">
+
+                </div>
+                <div class="checkout__input__checkbox">
+                    <label for="diff-acc">
+
+                    </label>
+                </div>
+                <div class="checkout__input">
+
+
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="checkout__order">
+                    <h4>Your Order</h4>
+                    <div class="checkout__order__products">Products </div>
+                    <ul>
+                        @foreach (var item in Model)
+                        {
+                            <li>@item.TenSP<span>@item.SoLuong</span></li>
+
+                            <div class="checkout__order__total">Total <span>@item.Total.ToString("#,##0").Replace(',', '.') VNĐ </span></div>
+                        }
+                    </ul>
+                    @*<div class="checkout__order__total">Total <span>@item.Tongtien.ToString("#,##0").Replace(',', '.') VNĐ </span></div>*@
+                    <div class="checkout__input__checkbox">
+                        <label for="acc-or">
+
+                        </label>
+                    </div>
+                    <p>
+
+                    </p>
+                    <div class="checkout__input__checkbox">
+                        <label for="payment">
+
+                        </label>
+                    </div>
+                    <div class="checkout__input__checkbox">
+                        <label for="paypal">
+                        </label>
+                    </div>
+                    <button type="submit" class="site-btn">Xác nhận đơn hàng</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

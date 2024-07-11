@@ -1,0 +1,1040 @@
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.pdb
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe.config
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.rsp
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe.config
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.rsp
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Console.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe.config
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.rsp
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\WebGrease.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+D:\Nam_3\HK1\KTPM\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.pdb
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe.config
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.rsp
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe.config
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.rsp
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Console.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe.config
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.rsp
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\WebGrease.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.SqlServer.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.SqlServer.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Options.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Win32.Registry.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.Bson.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\PagedList.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\PagedList.Mvc.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Buffers.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.ComponentModel.Annotations.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Memory.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Numerics.Vectors.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Security.AccessControl.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Cryptography.Xml.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Permissions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Principal.Windows.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Text.Encodings.Web.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.dll
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Options.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.Bson.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\PagedList.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\PagedList.Mvc.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Buffers.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Memory.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Numerics.Vectors.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Text.Encodings.Web.xml
+D:\Nam_3\HK2\LTCSDL\QuanLyLaptop\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+C:\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\QuanLyLaptop.pdb
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.exe.config
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csc.rsp
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.exe.config
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\csi.rsp
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Console.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.exe.config
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\vbc.rsp
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+C:\QuanLyLaptop\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+C:\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.SqlServer.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyModel.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Options.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Win32.Registry.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.Bson.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\PagedList.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\PagedList.Mvc.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Buffers.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.ComponentModel.Annotations.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Memory.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Numerics.Vectors.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.AccessControl.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Cryptography.Xml.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Permissions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Principal.Windows.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Text.Encodings.Web.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\WebGrease.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\EntityFramework.SqlServer.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Options.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.Bson.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\PagedList.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\PagedList.Mvc.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Buffers.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Memory.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Numerics.Vectors.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Text.Encodings.Web.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Helpers.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Mvc.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Optimization.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.Razor.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Newtonsoft.Json.xml
+C:\QuanLyLaptop\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+C:\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+C:\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+C:\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+C:\QuanLyLaptop\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.PowerBI.Api.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\Microsoft.Rest.ClientRuntime.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Cryptography.Cng.dll
+C:\QuanLyLaptop\QuanLyLaptop\bin\System.Security.Cryptography.Cng.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.pdb
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.exe
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.exe.config
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.rsp
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.exe
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.exe.config
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.rsp
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Console.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.exe
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.exe.config
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.rsp
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Antlr3.Runtime.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.SqlServer.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyModel.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Options.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.PowerBI.Api.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Rest.ClientRuntime.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Win32.Registry.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.Bson.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.Mvc.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Buffers.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.ComponentModel.Annotations.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Memory.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Numerics.Vectors.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.AccessControl.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Cng.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Xml.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Permissions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Principal.Windows.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Text.Encodings.Web.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Helpers.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Mvc.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Optimization.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Razor.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\WebGrease.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.SqlServer.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Options.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.Bson.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.Mvc.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Buffers.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Memory.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Numerics.Vectors.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Cng.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Text.Encodings.Web.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Helpers.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Mvc.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Optimization.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Razor.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+C:\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\QuanLyLaptop.pdb
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.exe
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.exe.config
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csc.rsp
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.exe
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.exe.config
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\csi.rsp
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Console.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.exe
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.exe.config
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\vbc.rsp
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Antlr3.Runtime.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Options.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.PowerBI.Api.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Win32.Registry.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.Bson.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.Mvc.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Buffers.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.ComponentModel.Annotations.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Memory.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.AccessControl.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Cng.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Xml.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Permissions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Principal.Windows.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Helpers.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Mvc.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Optimization.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Razor.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\WebGrease.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Options.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Newtonsoft.Json.Bson.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\PagedList.Mvc.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Buffers.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Memory.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Security.Cryptography.Cng.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Text.Encodings.Web.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Helpers.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Mvc.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Optimization.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.Razor.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+C:\Users\admin\Downloads\qllaptopcop(3)zip\QuanLyLaptop\QuanLyLaptop - Copy (2)\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\QuanLyLaptop.dll.config
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\QuanLyLaptop.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\QuanLyLaptop.pdb
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csc.exe
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csc.exe.config
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csc.rsp
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csi.exe
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csi.exe.config
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\csi.rsp
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.AppContext.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Collections.Immutable.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Console.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Globalization.Calendars.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.IO.Compression.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Net.Http.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Net.Sockets.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.ValueTuple.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Xml.XPath.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\vbc.exe
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\vbc.exe.config
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\vbc.rsp
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\roslyn\VBCSCompiler.exe.config
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Antlr3.Runtime.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\EntityFramework.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\EntityFramework.SqlServer.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.DependencyModel.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Localization.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Options.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.PowerBI.Api.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Rest.ClientRuntime.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Web.Infrastructure.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Win32.Registry.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Newtonsoft.Json.Bson.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Newtonsoft.Json.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\PagedList.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\PagedList.Mvc.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Buffers.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.ComponentModel.Annotations.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Memory.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Numerics.Vectors.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.AccessControl.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.Cryptography.Cng.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.Cryptography.Xml.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.Permissions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.Principal.Windows.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Text.Encodings.Web.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Helpers.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Mvc.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Optimization.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Razor.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.Deployment.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.Razor.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\WebGrease.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\EntityFramework.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\EntityFramework.SqlServer.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Localization.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.ObjectPool.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Options.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.Primitives.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Extensions.WebEncoders.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.Net.Http.Headers.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Newtonsoft.Json.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Newtonsoft.Json.Bson.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\PagedList.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\PagedList.Mvc.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Buffers.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Diagnostics.DiagnosticSource.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Memory.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Numerics.Vectors.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Security.Cryptography.Cng.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Text.Encodings.Web.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Threading.Tasks.Extensions.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Helpers.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Mvc.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Optimization.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.Razor.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.Deployment.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\System.Web.WebPages.Razor.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Antlr3.Runtime.pdb
+C:\QuanLyLaptopFinal\QuanLyLaptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\QuanLyLaptopFinal\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.AssemblyReference.cache
+C:\QuanLyLaptopFinal\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CoreCompileInputs.cache
+C:\QuanLyLaptopFinal\QuanLyLaptop\obj\Debug\QuanLyLaptop.csproj.CopyComplete
+C:\QuanLyLaptopFinal\QuanLyLaptop\obj\Debug\QuanLyLaptop.dll
+C:\QuanLyLaptopFinal\QuanLyLaptop\obj\Debug\QuanLyLaptop.pdb

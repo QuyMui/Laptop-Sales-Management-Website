@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6cf4ff4bbc414686934ee7b74f448b2f" Name="Diagram1">
+        <EntityTypeShape EntityType="QLLaptopModel.ChiTietDonHang" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.DanhGia" Width="1.5" PointX="8.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.DonHang" Width="1.5" PointX="3" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.NhaCungCap" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.PhanLoaiHang" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.SanPham" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.User_Role" Width="1.5" PointX="1.5" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLLaptopModel.UsSer" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <AssociationConnector Association="QLLaptopModel.FK_Order" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK__DanhGia__MaSP__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK__DanhGia__userID__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK_PersonOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK__SanPham__MaNhaCu__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK__SanPham__MaHang__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="QLLaptopModel.FK__UsSer__role_id__3A81B327" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

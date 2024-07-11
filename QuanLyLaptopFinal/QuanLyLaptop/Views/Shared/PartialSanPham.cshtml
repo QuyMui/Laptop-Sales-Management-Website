@@ -1,0 +1,14 @@
+﻿@model QuanLyLaptop.Models.SanPham
+
+<div class="col-md-4 col-12" style="padding: 30px;">
+    <div class="featured__item">
+        <img id="img" src="~/Template/ProductImg/@Model.AnhSP" width="100" />
+    </div>
+    <div class="featured__item__text">
+        <div class="button-container">
+            <a href="@Url.Action("ChiTietSanPham", "Home", new { maSP = @Model.MaSP })" class="primary-btn">Detail</a>
+        </div>
+        <h6>@Model.TenSP</h6>
+        <h5>@Model.Gia</h5>
+    </div>
+</div>

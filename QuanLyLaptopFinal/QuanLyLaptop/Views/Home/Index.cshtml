@@ -1,0 +1,19 @@
+﻿@using PagedList.Mvc
+@model PagedList.PagedList<QuanLyLaptop.Models.SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutTemplate.cshtml";
+}
+
+<div class="row">
+        @foreach (var item in Model)
+        {
+            @Html.Partial("PartialSanPham", item)
+        }
+    </div>
+
+    @*Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount*@
+<div class="product__pagination">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>

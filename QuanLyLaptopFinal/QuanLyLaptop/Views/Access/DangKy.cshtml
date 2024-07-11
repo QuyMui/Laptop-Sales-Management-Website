@@ -1,0 +1,123 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = null;
+}
+@model QuanLyLaptop.Models.UsSer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Register</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="../../Template/LayoutAdmin/assets/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="../../Template/LayoutAdmin/assets/vendors/css/vendor.bundle.base.css">
+    <!-- endinject -->
+    <!-- Plugin css for this page -->
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <!-- endinject -->
+    <!-- Layout styles -->
+    <link rel="stylesheet" href="../../Template/LayoutAdmin/assets/css/style.css">
+    <!-- End layout styles -->
+    <link rel="shortcut icon" href="../../Template/LayoutAdmin/assets/images/favicon.ico" />
+    <script>
+    @*function redirectToIndex() {
+        window.location.href = "@Url.Action("Login", "Index")"; // Điều hướng đến trang index
+    }*@
+    </script>
+</head>
+<body>
+    <div class="container-scroller">
+        <div class="container-fluid page-body-wrapper full-page-wrapper">
+            <div class="content-wrapper d-flex align-items-center auth">
+                <div class="row flex-grow">
+                    <div class="col-lg-4 mx-auto">
+                        <div class="auth-form-light text-left p-5">
+                            <div class="brand-logo">
+                                <img src="../../Template/LayoutAdmin/assets/images/logo.svg">
+                            </div>
+                            <h4>New here?</h4>
+                            <h6 class="font-weight-light">Signing up is easy. It only takes a few steps</h6>
+                            <form action="@Url.Action("DangKy", "Access")" method="post" class="pt-3">
+                                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                <div class="form-group">
+                                    <input type="text" name="TenDN" class="form-control form-control-lg" placeholder="Username" value="@ViewBag.TenDN">
+                                    @if (ViewBag.TenDNError != null)
+                                    {
+                                        <span class="text-danger">@ViewBag.TenDNError</span>
+                                    }
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="Email" class="form-control form-control-lg" placeholder="Email" value="@ViewBag.Email">
+                                    @if (ViewBag.EmailError != null)
+                                    {
+                                        <span class="text-danger">@ViewBag.EmailError</span>
+                                    }
+                                </div>
+                                <div class="form-group">
+                                    <input type="password" name="MK" class="form-control form-control-lg" placeholder="Password">
+                                    @if (ViewBag.MKError != null)
+                                    {
+                                        <span class="text-danger">@ViewBag.MKError</span>
+                                    }
+                                </div>
+                                @*<div class="form-group">
+                                    <input type="password" name="MKLai" class="form-control form-control-lg" placeholder="Confirm Password">
+                                    @if (ViewBag.MKLaiError != null)
+                                    {
+                                        <span class="text-danger">@ViewBag.MKLaiError</span>
+                                    }
+                                </div>*@
+                                @*<div class="form-group">
+            <input type="text" name="DienThoai" class="form-control form-control-lg" placeholder="Phone">
+            @Html.ValidationMessageFor(model => model.Sdt, "", new { @class = "text-danger" })
+        </div>*@
+                                <div class="form-group">
+                                    <input type="text" name="DienThoai" class="form-control form-control-lg" placeholder="Phone">
+                                    @Html.ValidationMessageFor(model => model.Sdt, "", new { @class = "text-danger" })
+                                </div>
+
+                                <div class="form-group">
+                                    <input type="text" name="DiaChi" class="form-control form-control-lg" placeholder="Address" value="@ViewBag.DiaChi">
+                                    @if (ViewBag.DiaChiError != null)
+                                    {
+                                        <span class="text-danger">@ViewBag.DiaChiError</span>
+                                    }
+                                </div>
+                                <button type="submit" class="btn btn-primary">Register</button>
+                            </form>
+
+                            <div class="mb-4">
+                                <div class="form-check">
+                                    <label class="form-check-label text-muted">
+                                        <input type="checkbox" class="form-check-input"> I agree to all Terms & Conditions
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="text-center mt-4 font-weight-light">
+                                Already have an account? <a href="@Url.Action("Login", "Access")" class="text-primary">Login</a>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content-wrapper ends -->
+        </div>
+        <!-- page-body-wrapper ends -->
+    </div>
+    <!-- container-scroller -->
+    <!-- plugins:js -->
+    <script src="../../Template/LayoutAdmin/assets/vendors/js/vendor.bundle.base.js"></script>
+    <!-- endinject -->
+    <!-- Plugin js for this page -->
+    <!-- End plugin js for this page -->
+    <!-- inject:js -->
+    <script src="../../Template/LayoutAdmin/assets/js/off-canvas.js"></script>
+    <script src="../../Template/LayoutAdmin/assets/js/hoverable-collapse.js"></script>
+    <script src="../../Template/LayoutAdmin/assets/js/misc.js"></script>
+    <!-- endinject -->
+</body>
+</html>

@@ -1,0 +1,16 @@
+﻿@model IEnumerable<QuanLyLaptop.Models.PhanLoaiHang>
+<div class="hero__categories">
+    <div class="hero__categories__all">
+        <i class="fa fa-bars"></i>
+        <span>All departments</span>
+    </div>
+    @*<span class="arrow_carrot-down"></span>*@
+  <ul>
+     <div class="list-group">
+            @foreach (var item in Model)
+            {
+                <li><a href="@Url.Action("SPTheoHang", "Home", new { mahang = item.MaHang })" class="list-group-item">@item.TenHang</a></li>
+            }
+     </div>
+  </ul>
+</div>

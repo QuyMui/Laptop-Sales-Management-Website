@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "ViewOrder";
+    Layout = "~/Views/Shared/DonHang.cshtml";
+}
+
+
+@model QuanLyLaptop.Models.OrderModel
+
+<h2>Thông Tin Đơn Hàng</h2>
+
+<p>Mã Đơn Hàng: @Model.MaDH</p>
+<p>Ngày Đặt: @Model.NgayDat</p>
+<p>Người Đặt: @Model.UserName</p>
+
+<h3>Chi Tiết Đơn Hàng</h3>
+<table>
+    <tr>
+        <th>Mã Sản Phẩm</th>
+        <th>Tên Sản Phẩm</th>
+        <th>Số Lượng</th>
+        <th>Giá</th>
+        <th>Tổng Tiền</th>
+    </tr>
+    @foreach (var item in Model.OrderDetails)
+    {
+        <tr>
+            <td>@item.MaSP</td>
+            <td>@item.TenSP</td>
+            <td>@item.SoLuong</td>
+            <td>@item.Gia</td>
+            <td>@(item.SoLuong * item.Gia)</td>
+        </tr>
+    }
+</table>
+
+<a href="@Url.Action("Index", "Home")">Trở về Trang Chủ</a>
+
+

@@ -1,0 +1,72 @@
+﻿@using PagedList.Mvc
+@using QuanLyLaptop.Models
+@model PagedList.PagedList<QuanLyLaptop.Models.SanPham>
+
+
+@{
+    ViewBag.Title = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Danh mục các sản phẩm</h2>
+
+<p>
+    @Html.ActionLink("Create New", "ThemSanPhamMoi")
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <tr class="table-warning">
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Số lượng
+        </th>
+        <th>
+            Nhà cung cấp
+        </th>
+        <th></th>
+    </tr>
+    @{
+        int i = 0;
+        string @cls = "table-success";
+    }
+    @foreach (var item in Model)
+    {
+        i = i + 1;
+        cls = "table-success";
+        if (i % 2 == 0)
+        {
+            cls = "table-primary";
+        }
+        <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhaCungCap.TenNhaCungCap)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "SuaSanPham", new { MaSP = item.MaSP }) |
+                @*@Html.ActionLink("Details", "Details", new { id = item.MaSP }) |*@
+                @Html.ActionLink("Delete", "XoaSanPham", new { MaSP = item.MaSP })
+            </td>
+        </tr>
+    }
+
+</table>
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("DanhMucSanPham", new { page = page }))
+</div>
+

@@ -1,0 +1,82 @@
+﻿@model PagedList.IPagedList<QuanLyLaptop.Models.DonHang>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Danh Muc Don Hang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Danh Muc Don Hang</h2>
+<p>
+    @Html.ActionLink("Create New", "ThemDonHangMoi")
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <tr class="table-warning">
+
+        <th>
+            @Html.DisplayNameFor(model => model.First().MaDH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().NgayDat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().NgayGiao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().userID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().TinhTrangGiaoHang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().DaThanhToan)
+        </th>
+        <th></th>
+    </tr>
+
+
+    @{
+        int i = 0;
+        string @cls = "table-success";
+    }
+    @foreach (var item in Model)
+    {
+        i = i + 1;
+        cls = "table-success";
+        if (i % 2 == 0)
+        {
+            cls = "table-primary";
+        }
+        <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.MaDH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayGiao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.userID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TinhTrangGiaoHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DaThanhToan)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "SuaDonHang", new { MaDH = item.MaDH }) |
+                @Html.ActionLink("Details", "ChiTietDonHang", new { MaDH = item.MaDH }) |
+                @Html.ActionLink("Delete", "XoaDonHang", new { MaDH = item.MaDH })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<div>
+    @Html.PagedListPager(Model, page => Url.Action("DanhMucDonHang", new { page = page }))
+</div>
